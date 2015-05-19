@@ -1,9 +1,10 @@
 # BeerJS Santiago
 
 Encuentro javascripters + cerveceros en Santiago
-[Link](http://www.beerjs.cl/)
 
-![BeerJS]()
+[beerjs.cl](http://www.beerjs.cl/)
+
+![BeerJS](https://raw.githubusercontent.com/beerjs/santiago/master/images/beerjs.png)
 
 ##¿Qué?
 
