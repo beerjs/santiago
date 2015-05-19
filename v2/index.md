@@ -1,5 +1,5 @@
 #title
-BeerJS
+BeerJS Santiago
 
 #description
 Encuentro javascripters + cerveceros en Santiago
@@ -17,7 +17,7 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero e
 Ya en el bar, todos los inscritos tendrán la oportunidad de compartir sobre un tema definido para cada encuentro. Tendrán 5 minutos para mostrar su experiencia y otros 5 para comentar lo expuesto.
 
 ###Beber y comer
-Mientras transcurren las presentaciones, habrán cervezas de varios tipos o schops si prefieren, con un límite por persona. La comida será definida según el bar y con diferentes opciones.
+Mientras transcurren las presentaciones, habrán cervezas de varios tipos o schops si prefieren, con un límite por persona. La comida será definida según el lugar y con diferentes opciones.
 
 ---
 
