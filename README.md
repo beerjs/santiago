@@ -26,36 +26,46 @@ Mientras transcurren las presentaciones, habrán cervezas de varios tipos o scho
 
 ##Auspicios
 
-¿Eres parte de una empresa donde trabajan con JavaScript? ¿Te gustaría apoyar BeerJS?
+####¿Te gustaría apoyar BeerJS?
 
-Tenemos varios modelos de auspicio y/o colaboración. Sólo [escríbenos](mailto:salud@beerjs.cl).
+¿Buscas desarrolladores para tu empresa? En BeerJS se juntan los mejores de la ciudad, auspicia un encuentro en tu oficina y conócelos.
+
+¿Eres parte de una empresa donde trabajan con JavaScript? Auspicia un encuentro y deja que tus desarrolladores compartan con nosotros.
+
+¿Tienes una empresa cool? Muéstrala auspiciando un encuentro y conversemos cómo enfrentas tus proyectos.
+
+[Escríbenos](mailto:salud@beerjs.cl)
 
 ##Próximo Encuentro:
 
-Miércoles 27 de Mayo de 2015, 19:30 hrs.
+Miércoles 24 de Junio de 2015, 19:30 hrs.
 
-**Sandwichería La Superior.**
+Oficinas de **eClass**
 
-*Nueva De Lyon 105, Providencia - Santiago.*
-
-Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/324759)
+*Carmencita 25, of. 11. Las Condes.*
 
 
-###Tema de esta edición: Workflow y herramientas
+Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/331932)
 
-Cada asistente tendrá 5 minutos para exponer sobre su experiencia con flujos de trabajo utilizando herramientas en JavaScript.
+
+###Tema de esta edición: Testing
+
+Quienes deseen tendrán 5 minutos para exponer sobre su experiencia con herramientas de testing en JavaScript y/o WebApps.
 
 ###Auspicia las cervezas:
 
-[Andalaosa](http://www.andalaosa.cl)
+[eClass](http://eclass)
 
 ##Organizadores
 
+Victor San Martin. [Twitter](http://www.twitter.com/questchile)
+
+> Product Manager en @eClass, CTO en @kewenapp y otros cargos en otras startups.
+
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
-- Me llaman para solucionar problemas 
+> - Me llaman para solucionar problemas 
 - Me gusta encontrar errores 
-- Me pagan para crear código para humanos y máquinas
 
 ---
 
