@@ -38,7 +38,7 @@ Mientras transcurren las presentaciones, habrán cervezas de varios tipos o scho
 
 ##Próximo Encuentro:
 
-Miércoles 24 de Junio de 2015, 19:30 hrs.
+Jueves 25 de Junio de 2015, 19:30 hrs.
 
 Oficinas de **eClass**
 
@@ -54,7 +54,8 @@ Quienes deseen tendrán 5 minutos para exponer sobre su experiencia con herramie
 
 ###Auspicia las cervezas:
 
-[eClass](http://eclass)
+[eClass](http://eclass.cl)
+[Cerveza De garage](https://www.facebook.com/cervezadgarage)
 
 ##Organizadores
 
