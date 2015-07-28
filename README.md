@@ -1,6 +1,6 @@
 # BeerJS Santiago
 
-Encuentro javascripters + cerveceros en Santiago
+Encuentro JavaScripters + cerveceros en Santiago
 
 [beerjs.cl](http://www.beerjs.cl/)
 
@@ -8,21 +8,21 @@ Encuentro javascripters + cerveceros en Santiago
 
 ##¿Qué?
 
-BeerJS es un encuentro de desarrolladores que subsisten haciendo código JavaScript, día-a-día, y que tienen como combustible el brebaje de cebada y lúpulo fermentados denominado cerveza.
+BeerJS es un encuentro de desarrolladores apasionados por crear código JavaScript día-a-día y que disfrutan de una buena cerveza.
 
-Se realiza mundialmente, por ciudades, y cada 60 días le toca a Santiago albergar una propia en un bar cercano a todos los asistentes.
+Se realiza mundialmente, por ciudades, y cada 30 días le toca a Santiago albergar una propia en un bar/oficina central y accesible a todos los asistentes.
 
 ###Juntarse
 
-Somos humanos que escribimos código que sólo las máquinas interpretan. Pero en el fondo queremos volver a las raíces para sociabilizar por un par de horas. Salir de las oficinas, casas o cuevas donde se encuentren e ir a un bar a compartir.
+Somos humanos que escribimos código que sólo las máquinas interpretan. Pero queremos volver a las raíces para sociabilizar por un par de horas. Salir de las oficinas, casas o cuevas donde se encuentren y compartir los problemas que nos dan los proyectos.
 
 ###Compartir
 
-Ya en el bar, todos los inscritos tendrán la oportunidad de compartir sobre un tema definido para cada encuentro. Tendrán 5 minutos para mostrar su experiencia y otros 5 para comentar lo expuesto.
+Ya en el lugar, todos los inscritos tendrán la oportunidad de compartir sobre un tema definido para cada encuentro. Podrán por breves minutos mostrar su experiencia para que todos opinemos y exploremos lo presentado.
 
 ###Beber y comer
 
-Mientras transcurren las presentaciones, habrán cervezas de varios tipos o schops si prefieren, con un límite por persona. La comida será definida según el lugar y con diferentes opciones.
+Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos asistentes y la comida será definida y auspiciada según el lugar.
 
 ##Auspicios
 
@@ -38,30 +38,31 @@ Mientras transcurren las presentaciones, habrán cervezas de varios tipos o scho
 
 ##Próximo Encuentro:
 
-Jueves 25 de Junio de 2015, 19:30 hrs.
+Miércoles 29 de Julio 2015, 19:30 hrs.
 
-Oficinas de **eClass**
+Oficinas de **Multinet**
 
-*Carmencita 25, of. 11. Las Condes.*
-
-
-Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/331932)
+*Av. Nueva Providencia 1860 - Piso 17. Providencia, Santiago.*
 
 
-###Tema de esta edición: Testing
+Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/335703)
 
-Quienes deseen tendrán 5 minutos para exponer sobre su experiencia con herramientas de testing en JavaScript y/o WebApps.
 
-###Auspicia las cervezas:
+###Tema: Offline-First
 
-[eClass](http://eclass.cl)
-[Cerveza De garage](https://www.facebook.com/cervezadgarage)
+Quienes quieran tendrán 5 minutos para exponer sobre herramientas y técnicas de offline browsing con JavaScript para Apps (móviles) y/o WebApps.
+
+###Requisito: traer cerveza:
+
+Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustaría compartir
+
+[Multinet](http://www.mad.cl)
 
 ##Organizadores
 
-Victor San Martin. [Twitter](http://www.twitter.com/questchile)
+Álex Acuña Viera. [Twitter](http://www.twitter.com/kyuumeitai)
 
-> Product Manager en @eClass, CTO en @kewenapp y otros cargos en otras startups.
+> Artesano Web y Jefe Desarrollo Web @ Multinet.
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
@@ -73,5 +74,7 @@ Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 BeerJS ayuda a crear espacios sociales que fortalezcan comunidades alrededor del software. No es requerimiento alguno consumir alcohol para participar.
 
 [Código de Conducta](http://es.confcodeofconduct.com/)
+
+Sigue en [Twitter](http://twitter.com/intent/follow?original_referer=&screen_name=BeerJSSantiago&tw_p=followbutton&variant=2.0)
 
 Participa, aporta en [Slack](http://www.hashtagchile.com/#postula)
