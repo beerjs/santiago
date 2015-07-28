@@ -56,6 +56,8 @@ Quienes quieran tendrán 5 minutos para exponer sobre herramientas y técnicas d
 
 Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustaría compartir
 
+###Auspicia:
+
 [Multinet](http://www.mad.cl)
 
 ##Organizadores
