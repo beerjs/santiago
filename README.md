@@ -40,7 +40,7 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 Miércoles 19 de Agosto 2015 | Oficina Finvox
 
-*uerta del Sol 55, of 92, Las Condes, Santiago.*
+*Puerta del Sol 55, of 92, Las Condes, Santiago.*
 
 
 Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/339042)
@@ -57,6 +57,60 @@ Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustar
 ###Auspicia:
 
 [Finvox](http://www.finvox.com)
+
+##¡Stickers!
+
+Lleva stickers oficiales **BeerJS** y lúcelo en tu computador o dónde quieras.
+
+Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
+
+###4 stickers vaso: *US$12*
+
+![](images/sticker-beerjs-vaso.png)
+
+- 4 stickers vaso BeerJS
+- Tamaño: 5 X 6,5 cms.
+- Envío incluído a todo Chile
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="NJMYVCVT6BW7N">
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+###4 stickers botella: *US$15*
+
+![](images/sticker-beerjs-botella.png)
+
+- 4 stickers botella BeerJS
+- Tamaño: 7,5 X 8,7 cms cms.
+- Envío incluído a todo Chile
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="FRKJQFYBEDEAU">
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+###6 stickers mixtos: *US$18*
+
+![](images/sticker-beerjs-vasobotella.png)
+
+- 3 stickers vaso BeerJS (5 X 6,5 cms.)
+- 3 stickers botella BeerJS (7,5 X 8,7 cms.)
+- Envío incluído a todo Chile
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="X8RGM6FMFXB5G">
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 ##Organizadores
 
