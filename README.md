@@ -38,19 +38,17 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-Miércoles 29 de Julio 2015, 19:30 hrs.
+Miércoles 19 de Agosto 2015 | Oficina Finvox
 
-Oficinas de **Multinet**
-
-*Av. Nueva Providencia 1860 - Piso 17. Providencia, Santiago.*
+*uerta del Sol 55, of 92, Las Condes, Santiago.*
 
 
-Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/335703)
+Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/339042)
 
 
-###Tema: Offline-First
+###Tema: JavaScript &amp; Robotics
 
-Quienes quieran tendrán 5 minutos para exponer sobre herramientas y técnicas de offline browsing con JavaScript para Apps (móviles) y/o WebApps.
+Quienes deseen tendrán 5 minutos para exponer sobre herramientas y desarrollo JavaScript para hardware / physical computing / microcontroladores.
 
 ###Requisito: traer cerveza:
 
@@ -58,13 +56,13 @@ Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustar
 
 ###Auspicia:
 
-[Multinet](http://www.mad.cl)
+[Finvox](http://www.finvox.com)
 
 ##Organizadores
 
-Álex Acuña Viera. [Twitter](http://www.twitter.com/kyuumeitai)
+Coto Augosto. [Twitter](http://www.twitter.com/coto)
 
-> Artesano Web y Jefe Desarrollo Web @ Multinet.
+> Passionate about technology and energy. Financial Hacker, Python-Java(ish) Programmer and Trader.
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 

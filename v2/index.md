@@ -37,7 +37,6 @@ MAP
 
 ##Organizadores
 ###Jorge Epuñan H.
-lipsum
 
 ---
 
