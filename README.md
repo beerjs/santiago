@@ -50,7 +50,7 @@ Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/339042)
 
 Quienes deseen tendrán 5 minutos para exponer sobre herramientas y desarrollo JavaScript para hardware / physical computing / microcontroladores.
 
-###Requisito: traer cerveza:
+###Requisito: traer cerveza
 
 Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustaría compartir
 
