@@ -38,17 +38,15 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-Miércoles 19 de Agosto 2015 | Oficina Finvox
+Miércoles 9 de Septiembre 2015 | Oficina Cornershop
 
-*Puerta del Sol 55, of 92, Las Condes, Santiago.*
+*Vecinal 131, piso 2, Las Condes, Santiago.*
 
+Cupos limitados.
 
-Cupos limitados. [Quiero Asistir](https://guestlistapp.com/events/339042)
+###Tema: Desnudando Proyectos
 
-
-###Tema: JavaScript &amp; Robotics
-
-Quienes deseen tendrán 5 minutos para exponer sobre herramientas y desarrollo JavaScript para hardware / physical computing / microcontroladores.
+Quienes deseen podrán desnudar sus proyectos personales y mostrar código fuente. ¡Prepárate para recibir críticas!
 
 ###Requisito: traer cerveza
 
@@ -56,7 +54,7 @@ Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustar
 
 ###Auspicia:
 
-[Finvox](http://www.finvox.com)
+[Cornershop](http://www.cornershopapp.com)
 
 ##¡Stickers!
 
@@ -64,7 +62,7 @@ Lleva stickers oficiales **BeerJS** y lúcelo en tu computador o dónde quieras.
 
 Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 
-###4 stickers vaso: *US$12*
+###4 stickers vaso: *US$10*
 
 ![](images/sticker-beerjs-vaso.png)
 
@@ -80,7 +78,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###4 stickers botella: *US$15*
+###4 stickers botella: *US$12*
 
 ![](images/sticker-beerjs-botella.png)
 
@@ -96,7 +94,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###6 stickers mixtos: *US$18*
+###6 stickers mixtos: *US$15*
 
 ![](images/sticker-beerjs-vasobotella.png)
 
@@ -114,9 +112,9 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 
 ##Organizadores
 
-Coto Augosto. [Twitter](http://www.twitter.com/coto)
+Sebas Contreras. [Twitter](http://www.twitter.com/eseceve)
 
-> Passionate about technology and energy. Financial Hacker, Python-Java(ish) Programmer and Trader.
+> Frontend Developer. Bicycle enthusiast. Bullanguero.
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
