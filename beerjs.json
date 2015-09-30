@@ -1,9 +1,9 @@
 {
   "evento": "BeerJS Santiago #6",
-  "fecha": "Octubre 2015",
-  "donde": "En Planificación",
-  "direccion": "-",
+  "fecha": "7 de Octubre 2015",
+  "donde": "Platanus",
+  "direccion": "Las Catalpas 1588, Vitacura",
   "hora": "desde 19:30 hrs",
-  "tema": "-",
-  "requisito": "-"
+  "tema": "AngularJS y TDD",
+  "requisito": "traer cerveza rica y heladita"
 }
