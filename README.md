@@ -38,15 +38,15 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-Miércoles 9 de Septiembre 2015 | Oficina Cornershop
+Miércoles 7 de Octubre 2015 | Oficina Platanus
 
-*Vecinal 131, piso 2, Las Condes, Santiago.*
+*Las Catalpas 1588 - Vitacura, Santiago.*
 
 Cupos limitados.
 
-###Tema: Desnudando Proyectos
+###Tema: AngularJS y TDD
 
-Quienes deseen podrán desnudar sus proyectos personales y mostrar código fuente. ¡Prepárate para recibir críticas!
+Quienes deseen podrán mostrar sus experiencias en AngularJS y TDD.
 
 ###Requisito: traer cerveza
 
@@ -54,7 +54,7 @@ Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustar
 
 ###Auspicia:
 
-[Cornershop](http://www.cornershopapp.com)
+[Platanus](http://www.platan.us)
 
 ##¡Stickers!
 
@@ -112,9 +112,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 
 ##Organizadores
 
-Sebas Contreras. [Twitter](http://www.twitter.com/eseceve)
-
-> Frontend Developer. Bicycle enthusiast. Bullanguero.
+Guillermo Moreno.
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
@@ -129,4 +127,4 @@ BeerJS ayuda a crear espacios sociales que fortalezcan comunidades alrededor del
 
 Sigue en [Twitter](http://twitter.com/intent/follow?original_referer=&screen_name=BeerJSSantiago&tw_p=followbutton&variant=2.0)
 
-Participa, aporta en [Slack](http://www.hashtagchile.com/#postula)
+Participa, aporta en [Slack](http://hashtagchile.herokuapp.com/)
