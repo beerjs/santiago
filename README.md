@@ -38,23 +38,7 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-Miércoles 7 de Octubre 2015 | Oficina Platanus
-
-*Las Catalpas 1588 - Vitacura, Santiago.*
-
-Cupos limitados.
-
-###Tema: AngularJS y TDD
-
-Quienes deseen podrán mostrar sus experiencias en AngularJS y TDD.
-
-###Requisito: traer cerveza
-
-Para beber, cada asistente tendrá que traer un pack de la cerveza que le gustaría compartir
-
-###Auspicia:
-
-[Platanus](http://www.platan.us)
+*En Planificación*
 
 ##¡Stickers!
 
@@ -110,9 +94,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-##Organizadores
-
-Guillermo Moreno.
+##Organiza
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
