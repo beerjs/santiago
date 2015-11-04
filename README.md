@@ -38,7 +38,16 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-*En Planificación*
+*[TPM Sandwichería](http://www.tpmrestaurant.cl/)*
+> Hernando de Aguirre 156. Providencia, Santiago
+
+###Tema: Networking
+
+En esta edición el tema es libre y nos juntaremos en un bar con terraza a conversar de todo, comer bien y tomar cerveza ó schop.
+
+###Requisito: traer dinero
+
+Como estaremos en un bar, cada uno es responsable de su consumo y de pagar por ello. Traigan efectivo o plástico bancario.
 
 ##¡Stickers!
 
@@ -109,4 +118,4 @@ BeerJS ayuda a crear espacios sociales que fortalezcan comunidades alrededor del
 
 Sigue en [Twitter](http://twitter.com/intent/follow?original_referer=&screen_name=BeerJSSantiago&tw_p=followbutton&variant=2.0)
 
-Participa, aporta en [Slack](http://hashtagchile.herokuapp.com/)
+Participa, aporta en [Slack](http://hashtagchile.co/)
