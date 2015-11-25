@@ -38,7 +38,17 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-*- en planificación -*
+**Miércoles 2 de Diciembre 2015 | Firstjob**
+
+###Requisito: traer cerveza
+
+Traigan cerveza para compartir entre los otros asistentes. La comida estará a cargo de Firstjob
+
+###Tema: Soluciones prácticas a problemas no tan cotidianos
+
+¿Has resuelto algún problema con una solución inesperada, 100% práctica o incluso rara usando JavaScript? En esta edición queremos compartir todas esas experiencias.
+
+###Auspicia: Firstjob
 
 
 ##¡Stickers!
@@ -47,7 +57,7 @@ Lleva stickers oficiales **BeerJS** y lúcelo en tu computador o dónde quieras.
 
 Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 
-###4 stickers vaso: *US$10*
+###4 stickers vaso: *US$7*
 
 ![](images/sticker-beerjs-vaso.png)
 
@@ -63,7 +73,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###4 stickers botella: *US$12*
+###4 stickers botella: *US$9*
 
 ![](images/sticker-beerjs-botella.png)
 
@@ -79,7 +89,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###6 stickers mixtos: *US$15*
+###6 stickers mixtos: *US$12*
 
 ![](images/sticker-beerjs-vasobotella.png)
 
@@ -96,6 +106,10 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 </form>
 
 ##Organiza
+
+Franco Moya [Twitter](http://www.twitter.com/iamravenous)
+
+> Front-end Developer / UX & Visual Designer
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
