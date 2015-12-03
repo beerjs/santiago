@@ -38,18 +38,7 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-**Miércoles 2 de Diciembre 2015 | Firstjob**
-
-###Requisito: traer cerveza
-
-Traigan cerveza para compartir entre los otros asistentes. La comida estará a cargo de Firstjob
-
-###Tema: Soluciones prácticas a problemas no tan cotidianos
-
-¿Has resuelto algún problema con una solución inesperada, 100% práctica o incluso rara usando JavaScript? En esta edición queremos compartir todas esas experiencias.
-
-###Auspicia: Firstjob
-
+*En planificación*
 
 ##¡Stickers!
 
@@ -106,10 +95,6 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 </form>
 
 ##Organiza
-
-Franco Moya [Twitter](http://www.twitter.com/iamravenous)
-
-> Front-end Developer / UX & Visual Designer
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
