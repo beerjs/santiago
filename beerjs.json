@@ -1,9 +1,9 @@
 {
-  "evento": "BeerJS Santiago #9",
+  "evento": "BeerJS Santiago #9 :beerjs:",
   "fecha": "miércoles 6 de enero 2016",
   "donde": "Yapo.cl",
   "direccion": "Mariano Sanchez Fontencilla 310 of 1001",
   "hora": "desde 19:30 hrs",
-  "tema": "Convenciones y buenas prácticas",
-  "requisito": "esta edición, no hay requisitos"
+  "tema": "Visualización de datos",
+  "requisito": "Traer hambre, sed y buena onda"
 }
