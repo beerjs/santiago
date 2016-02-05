@@ -38,27 +38,7 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 ##Próximo Encuentro:
 
-> Miércoles 3 de Febrero 2016 | [Finciero](https://www.finciero.com/)
-
-###Requisito:
-
-> Traer ricas cervezas
-
-Finciero pone las pizzas, cada asistente debe traer ricas y heladas cervezas para compartir.
-
-###Tema:
-
-> Proyectos Personales
-
-¿Tienes algun proyecto personal en que has estado trabajando y te gustaría mostrar? ¡Esta es la oportunidad de compartirlo, difundirlo y recibir opiniones!
-
-###Auspicia:
-
-[Finciero](https://www.finciero.com/)
-
-[CUPOS LIMITADOS, ¡INSCRÍBETE!](https://guestlistapp.com/events/403752)
-
-![](http://maps.google.com/maps/api/staticmap?markers=F%C3%A9lix%20de%20Amesti%20299%2C%20Las%20Condes&size=600x600&maptype=roadmap&sensor=false&zoom=16&format=png)
+> en planificación
 
 ##¡Stickers!
 
@@ -115,10 +95,6 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 </form>
 
 ##Organiza
-
-Marcello Vincenzo [Twitter](http://www.twitter.com/chelotavano)
-
-> Una vez scout siempre scout, ñoño encubierto. Amante de la algoritmia y computer science, aún así mi mejor panorama de fin de semana es con una piscola en la mano y acompañado de mis amigos. Las consolas son para jugar, los computadores para programar.
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
