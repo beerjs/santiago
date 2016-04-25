@@ -15,4 +15,6 @@ Básicamente son datos de la empresa y tuyos para completar el sitio:
 - Co-organizador (TU?) (descripción corta, en general la de Twitter u otro):
 - Co-organizador (TU?) (link Github, Twitter o el que quieras): 
 
+Cualquier duda en [Slack DevsChile](http://www.devschile.cl/) usuario *@jorgeepunan* ó mail a [salud@beerjs.cl](salud@beerjs.cl)
+
 ¡Gracias nuevamente! 👏🏽
