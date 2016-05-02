@@ -2,7 +2,7 @@ BeerJS Santiago
 ===
 
 #### Guía y sugerencias al organizador para cada evento
-*v0.0.1*
+*v0.0.2*
 
 **Primero**: gracias por tu generosidad y por brindarnos la oportunidad de visitarte en la presente edición de BeerJS Santiago.
 
@@ -15,8 +15,9 @@ BeerJS Santiago
 - como tu empresa auspiciará la comida (pizzas usualmente), sugiero que la pidas 1 hora antes para que lleguen cerca del unicio del evento. Los sabores deben ser variados, y como mínimo 8 pizzas familiares (si quieres *addons* q te ofrezca cada pizzería, queda a tu criterio) para aprox. 20 personas. Por favor considerar que hay vegetarianos entre los asistentes, y aunque quisiera no he podido encontrar alternativa para celíacos aunque aún no ha tocado la oportunidad de que alguno se declare tal.
 - los asistentes llegarán con cervezas las que serán compartidas. Vasos no son necesarios, sólo servilletas para la comida. Basurero disponible a mano es importante, ojalá más de uno ya que las latas y botellas se juntan con facilidad. Si reciclas mejor aún, se notificará al comienzo que se respete la separación de la basura.
 - se enviará un email con los últimos tips a los asistentes confirmados con la siguiente información que necesito me hagas llegar:
+
         - considerar que algunos podrían llegar en bicicleta, si tienes estacionamiento para ellas es importante que informes dentro del mismo día del evento cómo acceder a ellos.
-        - se te solicitará ademas información sobre dónde comprar cerveza cerca de tu oficina. uno o 2 mini-markets / supermercados / botillerías.
+        - se te solicitará ademas información sobre dónde comprar cerveza cerca de tu oficina. uno o 2 mini-markets / supermercados / botillerías será más que suficiente. haré un mapa detallando todos estos puntos además de cómo llegar.
 
 Gracias nuevamente, nos vemos!
 
