@@ -108,4 +108,4 @@ BeerJS ayuda a crear espacios sociales que fortalezcan comunidades alrededor del
 
 Sigue en [Twitter](http://twitter.com/intent/follow?original_referer=&screen_name=BeerJSSantiago&tw_p=followbutton&variant=2.0)
 
-Participa, aporta en [Slack](http://hashtagchile.co/)
+Participa, aporta en [Slack](http://devschile.slack.com)
