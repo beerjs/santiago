@@ -6,27 +6,27 @@ Encuentro JavaScripters + cerveceros en Santiago
 
 ![BeerJS](https://raw.githubusercontent.com/beerjs/santiago/master/images/beerjs.png)
 
-##¿Qué?
+## ¿Qué?
 
 BeerJS es un encuentro de desarrolladores apasionados por crear código JavaScript día-a-día y que disfrutan de una buena cerveza.
 
 Se realiza mundialmente, por ciudades, y cada 30 días le toca a Santiago albergar una propia en un bar/oficina central y accesible a todos los asistentes.
 
-###Juntarse
+### Juntarse
 
 Somos humanos que escribimos código que sólo las máquinas interpretan. Pero queremos volver a las raíces para sociabilizar por un par de horas. Salir de las oficinas, casas o cuevas donde se encuentren y compartir los problemas que nos dan los proyectos.
 
-###Compartir
+### Compartir
 
 Ya en el lugar, todos los inscritos tendrán la oportunidad de compartir sobre un tema definido para cada encuentro. Podrán por breves minutos mostrar su experiencia para que todos opinemos y exploremos lo presentado.
 
-###Beber y comer
+### Beber y comer
 
 Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos asistentes y la comida será definida y auspiciada según el lugar.
 
-##Auspicios
+## Auspicios
 
-####¿Te gustaría apoyar BeerJS?
+#### ¿Te gustaría apoyar BeerJS?
 
 ¿Buscas desarrolladores para tu empresa? En BeerJS se juntan los mejores de la ciudad, auspicia un encuentro en tu oficina y conócelos.
 
@@ -36,17 +36,17 @@ Mientras tanto probaremos diferentes tipos de cervezas traídas por los mismos a
 
 [Escríbenos](mailto:salud@beerjs.cl)
 
-##Próximo Encuentro:
+## Próximo Encuentro:
 
-> en planificación
+[beerjs.cl](http://www.beerjs.cl/)
 
-##¡Stickers!
+## ¡Stickers!
 
 Lleva stickers oficiales **BeerJS** y lúcelo en tu computador o dónde quieras.
 
 Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
 
-###4 stickers vaso: *US$7*
+### 4 stickers vaso: *US$7*
 
 ![](images/sticker-beerjs-vaso.png)
 
@@ -62,7 +62,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###4 stickers botella: *US$9*
+### 4 stickers botella: *US$9*
 
 ![](images/sticker-beerjs-botella.png)
 
@@ -78,7 +78,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###6 stickers mixtos: *US$12*
+### 6 stickers mixtos: *US$12*
 
 ![](images/sticker-beerjs-vasobotella.png)
 
@@ -94,7 +94,7 @@ Pago fácil por *PayPal* y envío a todo Chile por correo certificado.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-##Organiza
+## Organiza
 
 Jorge Epuñan H. [Twitter](http://www.twitter.com/csslab)
 
@@ -108,4 +108,4 @@ BeerJS ayuda a crear espacios sociales que fortalezcan comunidades alrededor del
 
 Sigue en [Twitter](http://twitter.com/intent/follow?original_referer=&screen_name=BeerJSSantiago&tw_p=followbutton&variant=2.0)
 
-Participa, aporta en [Slack](http://devschile.slack.com)
+Participa, aporta en [Slack](http://www.devschile.cl/)
