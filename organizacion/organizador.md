@@ -8,7 +8,7 @@ BeerJS Santiago
 
 **Segundo**: a continuación adjunto algunos tips que pueden ser útiles como co-organizador de esta edición.
 
-- la hora oficial del evento es de 19:30 a 21:30 hrs, pero siempre se alarga ya que la conversación y las cervezas siempre son motivantes.
+- la hora oficial del evento es de 18:30 a 21:30 hrs, pero siempre se alarga ya que la conversación y las cervezas siempre son motivantes.
 - se espera una asistencia del 90% de los registrados, usualmente un 10% no asiste a pesar de mi insistencia en que re-confirmen su inscripción el día anterior.
 - se consideran presentaciones, por lo que un proyectos / tv con conexión funcional a un computador es importante. todos discutirán acerca de cada presentación, aportando con dudas y / o soluciones al respecto.
 - como co-organizador tienes derecho a elegir el tema de esta edición y se espera que presentes algo al respecto. 5 minutos es más que suficiente.
@@ -19,7 +19,7 @@ BeerJS Santiago
         - considerar que algunos podrían llegar en bicicleta, si tienes estacionamiento para ellas es importante que informes dentro del mismo día del evento cómo acceder a ellos.
         - se te solicitará ademas información sobre dónde comprar cerveza cerca de tu oficina. uno o 2 mini-markets / supermercados / botillerías será más que suficiente. haré un mapa detallando todos estos puntos además de cómo llegar.
 
-Gracias nuevamente, nos vemos!
+¡Gracias nuevamente, nos vemos!
 
 -
 > Jorge Epuñan
