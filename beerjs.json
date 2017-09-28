@@ -1,10 +1,10 @@
 {
-  "evento": "BeerJS Santiago #28 :beerjs:",
-  "fecha": "6 de Septiembre 2017",
-  "donde": "Mitocondria",
-  "direccion": "Roberto del Río 1137, Providencia",
+  "evento": "BeerJS Santiago #29 :beerjs:",
+  "fecha": "4 de Octubre 2017",
+  "donde": "Continuum",
+  "direccion": "General Bustamante 24, Oficina M, Providencia",
   "hora": "desde las 19:00 hrs.",
-  "tema": "Libre: Muestra tu proyecto relacionado con Javascript; casos de éxito e incluso de fracaso. De toda experiencia podemos aprender.",
+  "tema": "React Ecosystem: Muestra tus proyectos en ReactJS, cómo solucionaste alguna dificultad, tus componentes de preferencia o lo que quieras alrededor de esta librería JavaScript.",
   "requisito": "traer rica y helada cerveza",
-  "registro": "https://guestlist.co/events/476571"
+  "registro": "https://guestlist.co/events/480603"
 }
