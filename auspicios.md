@@ -2,7 +2,7 @@
 
 ## BeerJS Santiago - Octubre 2017
 
-### [link](https://juanbrujo.github.io/beerjs-oct2017/)
+### [link](http://beerjs.github.io/santiago/)
 
 BeerJS Santiago es un evento (mensual) que permite unir a dedicados trabajadores bajo básicamente 2 cosas:
 
